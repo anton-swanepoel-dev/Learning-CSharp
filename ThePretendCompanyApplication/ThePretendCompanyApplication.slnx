@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../TCPData/TCPData.csproj" />
+  <Project Path="../TCPExtensions/TCPExtensions.csproj" />
+  <Project Path="ThePretendCompanyApplication.csproj" />
+</Solution>
